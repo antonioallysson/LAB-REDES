@@ -1,0 +1,10 @@
+site_name: Edital TAL
+
+theme: readthedocs
+
+nav:
+  - index.md
+  - disposicoes-gerais.md
+  - teste.md
+  - teste2.md
+
