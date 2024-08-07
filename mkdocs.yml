@@ -1,10 +1,31 @@
-site_name: Edital TAL
+site_name: Edital TAL 2024.2
 
-theme: readthedocs
+repo_url: https://github.com/antonioallysson/LAB-REDES
+edit_uri: "edit/main/docs"
+
+
+theme: 
+  name: material
+  language: pt
+
 
 nav:
   - index.md
   - disposicoes-gerais.md
-  - teste.md
-  - teste2.md
+  - youtube.md
+  - doc.md
 
+plugins:
+    - mermaid2
+
+markdown_extensions:
+  - pymdownx.tasklist
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format  
+          
+  - pymdownx.emoji

@@ -6,7 +6,7 @@ Este é um exemplo de Markdown. Você pode usar **negrito** e *itálico* para ê
 
 ### Lista de Tarefas
 
-- [ ] Primeiro item
+- [x] Primeiro item
 - [ ] Segundo item
 - [ ] Terceiro item
 
@@ -16,10 +16,11 @@ Aqui está um exemplo de código em linha: `printf("Hello, World!");`.
 
 E um bloco de código:
 
-```c
+```c linenums="1"
 #include <stdio.h>
 
 int main() {
     printf("Hello, World!");
     return 0;
 }
+```
