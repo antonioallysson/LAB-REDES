@@ -6,7 +6,7 @@ Este é um exemplo de Markdown. Você pode usar **negrito** e *itálico* para ê
 
 ### Lista de Tarefas
 
-- [x] Primeiro item
+- [ ] Primeiro item
 - [ ] Segundo item
 - [ ] Terceiro item
 

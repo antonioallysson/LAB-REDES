@@ -1,6 +1,6 @@
 # Das Disposições Gerais
 
-1. A inscrição do aluno implicará a aceitação total e incondicional das normas e instruções constantes neste edital.
+1. A Inscrição Do Aluno Implicará A Aceitação Total E Incondicional Das Normas E Instruções Constantes Neste Edital.
 2. Caso o aluno aprovado seja beneficiário de outra bolsa dentro do instituto ou com fim semelhante, deverá optar por uma das bolsas.
 3. Os casos não previstos neste Edital serão analisados pela Diretoria Acadêmica e os coordenadores/ professores de laboratórios.
 4. O valor da bolsa de monitoria será de R$ 400,00 (quatrocentos reais), com carga horária diária de 3 horas, no turno de oferta da disciplina, conforme Anexo I, fazendo um total de 15 horas semanais.
