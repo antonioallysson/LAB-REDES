@@ -12,7 +12,7 @@ Este é um exemplo de Markdown. Você pode usar **negrito** e *itálico* para ê
 
 ### Código
 
-Aqui está um exemplo de código em linha: `printf("Hello, World!");`.
+Aqui está um exemplo de código em linha: `print("Hello, World!");`.
 
 E um bloco de código:
 
